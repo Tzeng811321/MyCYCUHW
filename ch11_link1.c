@@ -1,4 +1,5 @@
 /* ch11 linklist.c */
+//hell
 #include <stdio.h>
 #include <stdlib.h>
 void show(void);
